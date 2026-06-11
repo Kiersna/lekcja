@@ -1,0 +1,6 @@
+wybrać nazwe chorby i nazwe objawow
+dodac kolumnę opis 
+usunąć
+posortować
+zliczyć i pogrupować
+create view
